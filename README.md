@@ -1,24 +1,165 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is lenglee
-===============================================================================================================================
+<div align="center">
 
-Backend Developer
------------------
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Lenglee%20Vaja&fontAlign=50&fontAlignY=35&fontSize=45&fontColor=ffffff&animation=fadeIn&color=0:0D1117,50:0969DA,100:8250DF" width="100%" />
 
-* 🌍  I'm based in laos, Vientiane
-* ✉️  You can contact me at [Lengleevaja@gmail.com](mailto:Lengleevaja@gmail.com)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&width=750&lines=Backend+%26+DevOps+Engineer;Building+Scalable+Backend+Systems;Cloud+Infrastructure+%7C+AWS+%7C+Docker;APIs+%7C+Distributed+Systems+%7C+Automation;Always+Learning.+Always+Building." alt="Typing SVG" />
 
-### Skills
+<br/>
 
+<a href="mailto:Lengleevaja@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Lengleevaja%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://github.com/Lenglee-vaja">
+  <img src="https://img.shields.io/badge/GitHub-Lenglee--vaja-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Lenglee-vaja&style=for-the-badge&color=0969DA&label=PROFILE+VIEWS" alt="Profile views"/>
+
+</div>
+
+👋 About Me
+
+name: Lenglee Vaja
+location: Vientiane, Laos 🇱🇦
+
+roles:
+  - Backend Developer
+  - DevOps Engineer
+
+focus:
+  - Backend Architecture
+  - REST API & GraphQL
+  - Cloud Infrastructure
+  - CI/CD & Automation
+  - Distributed Systems
+  - System Integration
+  - AI Integration
+
+currently_learning:
+  - Advanced System Design
+  - Cloud Architecture
+  - AI Engineering
+
+I enjoy designing and building scalable, secure, maintainable, and production-ready systems — from backend APIs and databases to cloud infrastructure and deployment pipelines.
+
+🧑‍💻 Tech Stack
+
+Languages
 
 <p align="left">
-<a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://chakra-ui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/chakra-colored.svg" width="36" height="36" alt="Chakra UI" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a><a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a><a href="https://render.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/render-colored.svg" width="36" height="36" alt="Render" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36" height="36" alt="PyTorch" /></a>
+  <img src="https://skillicons.dev/icons?i=go,js,ts,python&theme=dark" alt="Languages" />
 </p>
 
+Backend & APIs
 
-### Socials
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,graphql&theme=dark" alt="Backend" />
+</p>
 
-<p align="left"> <a href="https://www.github.com/Lenglee-vaja" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
+Databases & Cache
 
-### Badges
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis&theme=dark" alt="Databases" />
+</p>
 
-<a href="https://github.com/Lenglee-vaja" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lenglee-vaja&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=f97316&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+Cloud & DevOps
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,docker,nginx,githubactions,linux&theme=dark" alt="Cloud and DevOps" />
+</p>
+
+Tools & Platforms
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,firebase&theme=dark" alt="Tools" />
+</p>
+
+⚙️ What I Work With
+
+Backend Engineering
+├── REST APIs
+├── GraphQL APIs
+├── Authentication & Authorization
+├── WebSocket / Real-time Systems
+├── Background Jobs
+├── Microservices
+└── Third-party Integrations
+
+Cloud & DevOps
+├── AWS
+├── Docker
+├── Nginx
+├── CI/CD
+├── GitHub Actions
+├── Linux
+├── Monitoring
+└── Production Deployment
+
+Data & Messaging
+├── PostgreSQL
+├── MySQL
+├── MongoDB
+├── Redis
+└── Kafka
+
+📈 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Lenglee-vaja&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true" alt="Lenglee GitHub Stats" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lenglee-vaja&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Lenglee-vaja&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+
+</div>
+
+🏆 GitHub Profile
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Lenglee-vaja&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="GitHub Trophies" />
+
+</div>
+
+🐍 Contribution Animation
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Lenglee-vaja/Lenglee-vaja/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+</div>
+
+🌐 Connect With Me
+
+<div align="center">
+
+<a href="mailto:Lengleevaja@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+
+<a href="https://github.com/Lenglee-vaja">
+  <img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+</div>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&width=600&lines=Build+%E2%80%A2+Learn+%E2%80%A2+Improve+%E2%80%A2+Repeat;Thanks+for+visiting+my+GitHub+profile+%F0%9F%91%8B" alt="Footer typing animation" />
+
+<br/>
+
+⭐ From Lenglee Vaja
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:8250DF,50:0969DA,100:0D1117" width="100%" />
+
+</div>
